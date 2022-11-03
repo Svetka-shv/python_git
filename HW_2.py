@@ -73,4 +73,5 @@ print((num % 4 == 0 and num % 100 != 0) or (num % 400 == 0))
 #     temp = str(i) if i % fizz else 'F'
 #     temp +=  '' if i % buzz else 'B'
 #     print(temp, end = ' ')
+"""Hello my friends"""
 
